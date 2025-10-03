@@ -1,0 +1,190 @@
+2025-10-03 09:54:55 - root - ERROR - <module>:22 - Database initialization error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-03 09:54:55 - root - ERROR - <module>:22 - Database initialization error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-03 09:54:55 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 09:54:55 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 09:54:55 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 09:54:55 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 09:54:55 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 09:54:55 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 09:54:55 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 09:54:55 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 09:54:55 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 09:54:55 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 09:56:39 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 09:56:39 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 09:58:29 - root - ERROR - <module>:22 - Database initialization error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-03 09:58:29 - root - ERROR - <module>:22 - Database initialization error: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-10-03 09:58:29 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 09:58:29 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 09:58:29 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 09:58:29 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 09:58:29 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 09:58:29 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 09:58:29 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 09:58:29 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 09:58:29 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 09:58:29 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 10:02:00 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 10:02:00 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 10:02:00 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 10:02:00 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 10:02:00 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 10:02:00 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 10:02:00 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 10:02:00 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 10:02:00 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 10:02:00 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 10:02:00 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 10:02:00 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 10:08:12 - root - ERROR - verify_password:18 - Password verification error: hash could not be identified
+2025-10-03 10:08:12 - root - ERROR - verify_password:18 - Password verification error: hash could not be identified
+2025-10-03 10:08:12 - root - WARNING - authenticate_user:57 - Authentication failed: Invalid password - demo@manufacturer.com
+2025-10-03 10:08:12 - root - WARNING - authenticate_user:57 - Authentication failed: Invalid password - demo@manufacturer.com
+2025-10-03 10:08:12 - root - WARNING - login:66 - Failed login attempt for: demo@manufacturer.com
+2025-10-03 10:08:12 - root - WARNING - login:66 - Failed login attempt for: demo@manufacturer.com
+2025-10-03 10:08:12 - root - ERROR - get_db:21 - Database session error: Incorrect email or password
+2025-10-03 10:08:12 - root - ERROR - get_db:21 - Database session error: Incorrect email or password
+2025-10-03 10:08:12 - root - WARNING - api_exception_handler:59 - API Exception: Incorrect email or password - http://127.0.0.1:8000/api/v1/auth/login
+2025-10-03 10:08:12 - root - WARNING - api_exception_handler:59 - API Exception: Incorrect email or password - http://127.0.0.1:8000/api/v1/auth/login
+2025-10-03 10:29:34 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 10:29:34 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 10:30:29 - passlib.handlers.bcrypt - WARNING - _load_backend_mixin:622 - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "F:\Projects\venvs\311\inventory_exchange_system\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-10-03 10:47:53 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 10:47:53 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 10:47:53 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 10:47:53 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 10:47:53 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 10:47:53 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 10:47:53 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 10:47:53 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 10:47:53 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 10:47:53 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 10:47:53 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 10:47:53 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 10:49:39 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 10:49:39 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 10:53:53 - root - ERROR - get_db:21 - Database session error: [{'type': 'string_pattern_mismatch', 'loc': ('body', 'gst_number'), 'msg': "String should match pattern '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'", 'input': '04ABCDE1234F2Y6', 'ctx': {'pattern': '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'}, 'url': 'https://errors.pydantic.dev/2.5/v/string_pattern_mismatch'}, {'type': 'string_too_short', 'loc': ('body', 'password'), 'msg': 'String should have at least 8 characters', 'input': 'demo456', 'ctx': {'min_length': 8}, 'url': 'https://errors.pydantic.dev/2.5/v/string_too_short'}]
+2025-10-03 10:53:53 - root - ERROR - get_db:21 - Database session error: [{'type': 'string_pattern_mismatch', 'loc': ('body', 'gst_number'), 'msg': "String should match pattern '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'", 'input': '04ABCDE1234F2Y6', 'ctx': {'pattern': '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'}, 'url': 'https://errors.pydantic.dev/2.5/v/string_pattern_mismatch'}, {'type': 'string_too_short', 'loc': ('body', 'password'), 'msg': 'String should have at least 8 characters', 'input': 'demo456', 'ctx': {'min_length': 8}, 'url': 'https://errors.pydantic.dev/2.5/v/string_too_short'}]
+2025-10-03 10:53:53 - root - WARNING - validation_exception_handler:69 - Validation Error: [{'type': 'string_pattern_mismatch', 'loc': ('body', 'gst_number'), 'msg': "String should match pattern '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'", 'input': '04ABCDE1234F2Y6', 'ctx': {'pattern': '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'}, 'url': 'https://errors.pydantic.dev/2.5/v/string_pattern_mismatch'}, {'type': 'string_too_short', 'loc': ('body', 'password'), 'msg': 'String should have at least 8 characters', 'input': 'demo456', 'ctx': {'min_length': 8}, 'url': 'https://errors.pydantic.dev/2.5/v/string_too_short'}] - http://127.0.0.1:8000/api/v1/auth/register
+2025-10-03 10:53:53 - root - WARNING - validation_exception_handler:69 - Validation Error: [{'type': 'string_pattern_mismatch', 'loc': ('body', 'gst_number'), 'msg': "String should match pattern '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'", 'input': '04ABCDE1234F2Y6', 'ctx': {'pattern': '^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$'}, 'url': 'https://errors.pydantic.dev/2.5/v/string_pattern_mismatch'}, {'type': 'string_too_short', 'loc': ('body', 'password'), 'msg': 'String should have at least 8 characters', 'input': 'demo456', 'ctx': {'min_length': 8}, 'url': 'https://errors.pydantic.dev/2.5/v/string_too_short'}] - http://127.0.0.1:8000/api/v1/auth/register
+2025-10-03 10:57:05 - root - INFO - register:38 - Creating new user: demo1@manufacturer.com
+2025-10-03 10:57:05 - root - INFO - register:38 - Creating new user: demo1@manufacturer.com
+2025-10-03 10:57:06 - root - INFO - create_user:38 - User created: 84ecb7d7-aebf-4742-9d85-85fae41b188c
+2025-10-03 10:57:06 - root - INFO - create_user:38 - User created: 84ecb7d7-aebf-4742-9d85-85fae41b188c
+2025-10-03 10:57:06 - root - INFO - register:40 - User created successfully: 84ecb7d7-aebf-4742-9d85-85fae41b188c
+2025-10-03 10:57:06 - root - INFO - register:40 - User created successfully: 84ecb7d7-aebf-4742-9d85-85fae41b188c
+2025-10-03 10:58:00 - root - INFO - verify_gst_number_api:40 - GST verification requested for: 04ABCDE1234F1Z6
+2025-10-03 10:58:00 - root - INFO - verify_gst_number_api:40 - GST verification requested for: 04ABCDE1234F1Z6
+2025-10-03 10:59:08 - root - INFO - list_categories:25 - Retrieved 4 categories
+2025-10-03 10:59:08 - root - INFO - list_categories:25 - Retrieved 4 categories
+2025-10-03 10:59:19 - root - INFO - list_materials:48 - Retrieved 5 materials
+2025-10-03 10:59:19 - root - INFO - list_materials:48 - Retrieved 5 materials
+2025-10-03 11:02:27 - root - INFO - admin_dashboard:97 - Admin dashboard accessed by: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 11:02:27 - root - INFO - admin_dashboard:97 - Admin dashboard accessed by: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 11:03:23 - root - INFO - list_conversations:64 - Retrieved 0 conversations for user 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 11:03:23 - root - INFO - list_conversations:64 - Retrieved 0 conversations for user 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 11:04:58 - root - WARNING - validation_exception_handler:69 - Validation Error: [{'type': 'json_invalid', 'loc': ('body', 59), 'msg': 'JSON decode error', 'input': {}, 'ctx': {'error': "Expecting ',' delimiter"}}] - http://127.0.0.1:8000/api/v1/conversations/
+2025-10-03 11:04:58 - root - WARNING - validation_exception_handler:69 - Validation Error: [{'type': 'json_invalid', 'loc': ('body', 59), 'msg': 'JSON decode error', 'input': {}, 'ctx': {'error': "Expecting ',' delimiter"}}] - http://127.0.0.1:8000/api/v1/conversations/
+2025-10-03 11:06:28 - root - ERROR - verify_token:88 - Token verification error: Signature has expired.
+2025-10-03 11:06:28 - root - ERROR - verify_token:88 - Token verification error: Signature has expired.
+2025-10-03 11:06:28 - root - WARNING - get_current_user:38 - Invalid or expired token
+2025-10-03 11:06:28 - root - WARNING - get_current_user:38 - Invalid or expired token
+2025-10-03 11:06:28 - root - ERROR - get_db:21 - Database session error: Could not validate credentials
+2025-10-03 11:06:28 - root - ERROR - get_db:21 - Database session error: Could not validate credentials
+2025-10-03 11:06:28 - root - WARNING - api_exception_handler:59 - API Exception: Could not validate credentials - http://127.0.0.1:8000/api/v1/conversations/
+2025-10-03 11:06:28 - root - WARNING - api_exception_handler:59 - API Exception: Could not validate credentials - http://127.0.0.1:8000/api/v1/conversations/
+2025-10-03 11:08:17 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 11:08:17 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 18:12:17 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:12:17 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:12:17 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:12:17 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:12:17 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:12:17 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:12:17 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:12:17 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:12:17 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:12:17 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:12:17 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:12:17 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:18:30 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 18:18:30 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 18:20:38 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:20:38 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:20:38 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:20:38 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:20:38 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:20:38 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:20:38 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:20:38 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:20:38 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:20:38 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:20:38 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:20:38 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:23:08 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 18:23:08 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 18:32:07 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 18:32:07 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 18:38:07 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:38:07 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:38:07 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:38:07 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:38:07 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:38:07 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:38:07 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:38:07 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:38:07 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:38:07 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:38:07 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:38:07 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:39:35 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:39:35 - root - INFO - <module>:20 - Database tables created successfully
+2025-10-03 18:39:35 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:39:35 - root - INFO - startup_event:130 - ============================================================
+2025-10-03 18:39:35 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:39:35 - root - INFO - startup_event:131 - Manufacturing Marketplace API Starting...
+2025-10-03 18:39:35 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:39:35 - root - INFO - startup_event:132 - Environment: Production
+2025-10-03 18:39:35 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:39:35 - root - INFO - startup_event:133 - API Documentation: http://0.0.0.0:8000/api/docs
+2025-10-03 18:39:35 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:39:35 - root - INFO - startup_event:134 - ============================================================
+2025-10-03 18:44:17 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 18:44:17 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 19:19:41 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 19:19:41 - root - INFO - login:73 - User logged in successfully: 1322fec4-03bd-4be4-839c-ba1f4d7ffcc8
+2025-10-03 19:22:47 - root - INFO - register:38 - Creating new user: varun@manufacturer.com
+2025-10-03 19:22:47 - root - INFO - register:38 - Creating new user: varun@manufacturer.com
+2025-10-03 19:22:48 - root - INFO - create_user:38 - User created: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 19:22:48 - root - INFO - create_user:38 - User created: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 19:22:48 - root - INFO - register:40 - User created successfully: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 19:22:48 - root - INFO - register:40 - User created successfully: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 19:23:21 - root - INFO - login:73 - User logged in successfully: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 19:23:21 - root - INFO - login:73 - User logged in successfully: ee904323-c7fb-4dd4-ab95-c160f5f50aee
+2025-10-03 22:14:10 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
+2025-10-03 22:14:10 - root - INFO - shutdown_event:141 - Manufacturing Marketplace API Shutting Down...
